@@ -1,9 +1,3 @@
-
-
-Here’s a draft for your project’s README file:  
-
----
-
 # Daily Tracker  
 
 ## 🏆 About the Project  
@@ -84,9 +78,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📨 Contact  
 For questions or suggestions, feel free to reach out:  
-- **Email**: your-email@example.com  
-- **GitHub**: [your-username](https://github.com/your-username)  
+- **Email**: siya.gladile@gmail.com  
+- **GitHub**: ZipticGladiator (https://github.com/ZipticGladiator)  
 
---- 
-
-Let me know if you'd like me to customize this further!
