@@ -1,7 +1,7 @@
-# Daily Tracker  
+# Monk Mode Centre 
 
 ## 🏆 About the Project  
-**Daily Tracker** is a habit and wellness tracking application that helps users stay consistent with their daily goals. It offers features like habit tracking, daily weight monitoring, and a competitive leaderboard to motivate users to stay on track.  
+**Monk Mode Center** is a habit and wellness tracking application that helps users stay consistent with their daily goals. It offers features like habit tracking, daily weight monitoring, and a competitive leaderboard to motivate users to stay on track.  
 
 ## ✨ Features  
 - **Daily Step Logging**: Users can input and review their daily steps.  
